@@ -1,4 +1,4 @@
-# medical-diagnosis-ai
+# MEDICAL DIAGNOSIS - AI
 
 
 BRAIN TUMOR DATASET : 
