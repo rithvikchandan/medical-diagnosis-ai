@@ -1,9 +1,8 @@
 streamlit
-tensorflow
+tensorflow==2.15.0
 numpy
 pillow
 scikit-learn
-pickle5
 pandas
 matplotlib
 seaborn
