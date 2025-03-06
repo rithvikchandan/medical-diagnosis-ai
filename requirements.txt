@@ -1,0 +1,11 @@
+streamlit
+tensorflow
+numpy
+pillow
+scikit-learn
+pickle5
+pandas
+matplotlib
+seaborn
+statsmodels
+streamlit-option-menu
